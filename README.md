@@ -1,4 +1,4 @@
-# ARC-WORKS-AI-STUDIO
+# Arjun-AI-STUDIO
 # Arjun AI Studio 🚀
 
 AI-powered websites, creative design, and digital solutions.

@@ -4,7 +4,7 @@ AI-powered websites, creative design, and digital solutions.
 
 ## 🌐 Live Website
 
-[Visit Arjun AI Studio](https://sensational-marshmallow-b3764d.netlify.app/)
+[Visit Arjun AI Studio](https://mail-whisperer-96.lovable.app)
 
 ## 📌 About
 
